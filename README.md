@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 😄 I love Progam, DIY & Play pingpong
 - 💬 Ask me about C#、STM32、MCU、ARM and my projects
 - 📫 How to reach me: xvchonghui@outlook.com
-- 😄 Pronouns: ahui
 - ⚡ Fun fact: CSGO Movie 
 
 
