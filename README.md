@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on CETC 26th Institute
-- 🌱 I’m currently learning WPF & industrial software development
+- 🔭 I’m currently working on ATECH
+- 🌱 I’m currently learning WPF & AUTOSAR software development
 - 👯 Currently working in Chongqing, China
 - 😄 I love Progam, DIY & Play pingpong
 - 💬 Ask me about C#、STM32、MCU、ARM and my projects
